@@ -1,0 +1,85 @@
+
+
+.card-content{
+    border: 1px solid red;
+    padding: 28px;
+  
+  
+}
+
+.office-image{
+    height:320px;
+    background-image: url("image-header-desktop.jpg");
+    background-color:hsl(276deg 51% 60%);
+    background-blend-mode:luminosity;
+    background-size:cover;
+    width:985px;
+
+}
+
+
+section{
+
+    display:flex;
+    background-color:hsl(246deg 38% 16%) ;
+    color:hsl(200deg 100% 99%);
+    height:320px;
+    font-family: 'Lexend Deca', sans-serif;
+    max-width:1000px;
+    border-radius: 10px;
+    overflow: hidden;
+   
+
+    
+}
+.card-info{
+    color:hsl(245deg 11% 54%);
+    font-weight:300;
+    font-size:14px;
+    margin-bottom: 36px;
+}
+.card-count-title{
+    text-transform:uppercase;
+    margin-top: 5px;
+    font-size:12px;
+}
+
+.card-social-media{
+    display: flex;
+  
+    justify-content: space-between;
+    
+}
+.card-count{
+margin-bottom: 0px;
+
+}
+span{
+    color:hsl(275deg 51% 60%)
+}
+
+
+body{
+    background-color:hsl(233deg 47% 7%);
+    display: flex;
+    height:100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
